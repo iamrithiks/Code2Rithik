@@ -7,3 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Rithik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Code2Rithik)](https://github.com/anuraghazra/github-readme-stats)
