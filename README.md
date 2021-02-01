@@ -3,7 +3,7 @@
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Code2Rithik alt=Code2Rithik /> </p>
 
-![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code2Rithik&show_icons=true&theme=merko)
+![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code2Rithik&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/Code2Rithik/github-readme-stats)
 
