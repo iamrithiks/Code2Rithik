@@ -14,8 +14,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: I started to code when I was 9
 
 ```
-{
- while (alive) {
+while (alive) {
    
       eat();   
       sleep();
