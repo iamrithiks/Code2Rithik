@@ -1,4 +1,4 @@
-# H1 Hi there 👋
+# Hi there 👋
 
 <!--
 **Code2Rithik/Code2Rithik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
