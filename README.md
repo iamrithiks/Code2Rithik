@@ -13,3 +13,13 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: talk2rithiks@gmail.com
 - ⚡ Fun fact: I started to code when I was 9
 
+```
+{
+ while (alive) {
+   
+      eat();   
+      sleep();
+      code();
+      repeat();
+}
+```
