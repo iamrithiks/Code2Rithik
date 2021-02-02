@@ -28,4 +28,7 @@ Skills: PYTHON / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Code2Rithik)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Code2Rithik)  
+
+
 
