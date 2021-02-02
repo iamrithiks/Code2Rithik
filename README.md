@@ -1,5 +1,20 @@
-## Hey 👋, I am Rithik Samanthula
-[![Gmail Badge](https://img.shields.io/badge/-talk2rithiks@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:talk2rithiks@gmail.com)](mailto:talk2rithiks@gmail.com) [![Github Badge](https://img.shields.io/badge/-Code2Rithik-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Code2Rithik/)](https://www.github.com/Code2Rithik/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://code2rithik.github.io//)](https://code2rithik.github.io//) <p align='left'>I am Rithik and I am a front-end Web Developer. I am good at HTML, CSS, and JS.</p>
+### Hey there 👋, I am Rithik
+#### Front-End Web Developer 
+I am Rithik and I am a front-end Web Developer. I am good at HTML, CSS, and JS.
+
+Skills: PYTHON / JS / HTML / CSS
+
+- 🔭 I’m currently working on my Portfolio. 
+- 🌱 I’m currently learning about Javascript 
+- 👯 I’m looking to collaborate on My Portfolio and JavaScript 
+- 💬 Ask me about How I make my Websites 
+- 📫 How to reach me: talk2rithiks@gmail.com 
+- ⚡ Fun fact: I started to code when I was 7. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Code2Rithik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Code2Rithik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Code2Rithik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://code2rithik.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Code2Rithik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg' alt='tumblr' height='40'>](https://www.tumblr.com/blog/rithiklikescricket)  
+
+
 ## My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Code2Rithik alt=Code2Rithik /> </p>
 
