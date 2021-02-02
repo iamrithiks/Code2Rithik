@@ -16,8 +16,9 @@ Skills: PYTHON / JS / HTML / CSS
 
 
 ## My Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Code2Rithik alt=Code2Rithik /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Code2Rithik)  
 
+![Profile views](https://gpvc.arturio.dev/Code2Rithik)  
 ![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code2Rithik&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
