@@ -16,7 +16,7 @@ Skills: PYTHON / JS / HTML / CSS
 
 
 <a href="mailto:talk2rithiks@gmail.com"><img src="https://img.shields.io/badge/EMAIL-me%talk2rithiks@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/aadtyasivaS"><img src="https://img.shields.io/badge/GitHub-aadityasivaS-181717?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Code2Rithik"><img src="https://img.shields.io/badge/GitHub-Code2Rithik-181717?style=for-the-badge&logo=github"></a>
 <a href="https://dribbble.com/Aadityasiva"><img src="https://img.shields.io/badge/Dribbble-aadityasiva-EA4C89?style=for-the-badge&logo=dribbble"></a>
 <a href="https://stackoverflow.com/users/14481856/aadityasiva-sabarinathan"><img src="https://img.shields.io/badge/Stackoverflow-aadityasiva%20sabarinathan-FE7A16?style=for-the-badge&logo=stackoverflow"></a>
 <a href="https://aadityasiva.cf"><img src="https://img.shields.io/badge/Website-aadityasiva.cf-brightgreen?style=for-the-badge"></a>
