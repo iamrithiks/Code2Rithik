@@ -18,7 +18,7 @@ Skills: PYTHON / JS / HTML / CSS
 <a href="mailto:talk2rithiks@gmail.com"><img src="https://img.shields.io/badge/EMAIL-talk2rithiks@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/Code2Rithik"><img src="https://img.shields.io/badge/GitHub-Code2Rithik-181717?style=for-the-badge&logo=github"></a>
 <a href="https://dribbble.com/Code2Rithik"><img src="https://img.shields.io/badge/Dribbble-Code2Rithik-EA4C89?style=for-the-badge&logo=dribbble"></a>
-<a href="https://stackoverflow.com/users/14481856/aadityasiva-sabarinathan"><img src="https://img.shields.io/badge/Stackoverflow-aadityasiva%20sabarinathan-FE7A16?style=for-the-badge&logo=stackoverflow"></a>
+<a href="https://stackoverflow.com/users/15028773/rithik-samanthula"><img src="https://img.shields.io/badge/Stackoverflow-Rithik%Samanthula-FE7A16?style=for-the-badge&logo=stackoverflow"></a>
 <a href="https://rithikdev.github.io/"><img src="https://img.shields.io/badge/Website-https://rithikdev.github.io/-brightgreen?style=for-the-badge"></a>
 <a href="https://dev.to/aadityasivas"><img src="https://img.shields.io/badge/dev.to-aadityasiva-0A0A0A?style=for-the-badge&logo=dev.to"></a>
 
