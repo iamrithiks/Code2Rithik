@@ -15,7 +15,13 @@ Skills: PYTHON / JS / HTML / CSS
 - ⚡ Fun fact: I started to code when I was 7. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Code2Rithik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Code2Rithik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Code2Rithik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rithikdev.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Code2Rithik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg' alt='tumblr' height='40'>](https://code2rithik.tumblr.com/)  
+<a href="mailto:talk2rithiks@gmail.com"><img src="https://img.shields.io/badge/EMAIL-me%rithikdev.github.io-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/aadtyasivaS"><img src="https://img.shields.io/badge/GitHub-aadityasivaS-181717?style=for-the-badge&logo=github"></a>
+<a href="https://dribbble.com/Aadityasiva"><img src="https://img.shields.io/badge/Dribbble-aadityasiva-EA4C89?style=for-the-badge&logo=dribbble"></a>
+<a href="https://stackoverflow.com/users/14481856/aadityasiva-sabarinathan"><img src="https://img.shields.io/badge/Stackoverflow-aadityasiva%20sabarinathan-FE7A16?style=for-the-badge&logo=stackoverflow"></a>
+<a href="https://aadityasiva.cf"><img src="https://img.shields.io/badge/Website-aadityasiva.cf-brightgreen?style=for-the-badge"></a>
+<a href="https://dev.to/aadityasivas"><img src="https://img.shields.io/badge/dev.to-aadityasiva-0A0A0A?style=for-the-badge&logo=dev.to"></a>
+
 
 
 ## My Github Stats
