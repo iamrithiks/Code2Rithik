@@ -20,7 +20,7 @@ Skills: PYTHON / JS / HTML / CSS
 <a href="https://dribbble.com/Code2Rithik"><img src="https://img.shields.io/badge/Dribbble-Code2Rithik-EA4C89?style=for-the-badge&logo=dribbble"></a>
 <a href="https://stackoverflow.com/users/15028773/rithik-samanthula"><img src="https://img.shields.io/badge/Stackoverflow-Rithik%20Samanthula-FE7A16?style=for-the-badge&logo=stackoverflow"></a>
 <a href="https://rithikdev.github.io/"><img src="https://img.shields.io/badge/Website-https://rithikdev.github.io/-brightgreen?style=for-the-badge"></a>
-<a href="https://dev.to/aadityasivas"><img src="https://img.shields.io/badge/dev.to-aadityasiva-0A0A0A?style=for-the-badge&logo=dev.to"></a>
+<a href="https://dev.to/code2rithik"><img src="https://img.shields.io/badge/dev.to-Rithik%20Samanthula-0A0A0A?style=for-the-badge&logo=dev.to"></a>
 
 
 
