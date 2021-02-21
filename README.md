@@ -8,7 +8,7 @@ I am Rithik and I am a front-end Web Developer. I am good at HTML, CSS, and JS.<
 Skills: PYTHON / JS / HTML / CSS
 
 - 🔭 I’m currently working on my Portfolio. 
-- 🌱 I’m currently learning about Javascript 
+- 🌱 I’m currently learning about Express.js 
 - 👯 I’m looking to collaborate on My Portfolio and JavaScript 
 - 💬 Ask me about How I make my Websites 
 - 📫 How to reach me: rithikdev@outlook.com 
