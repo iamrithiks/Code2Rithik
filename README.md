@@ -11,7 +11,7 @@ Skills: PYTHON / JS / HTML / CSS
 - 🌱 I’m currently learning about Javascript 
 - 👯 I’m looking to collaborate on My Portfolio and JavaScript 
 - 💬 Ask me about How I make my Websites 
-- 📫 How to reach me: talk2rithiks@gmail.com 
+- 📫 How to reach me: rithikdev@outlook.com 
 - ⚡ Fun fact: I started to code when I was 7. 
 
 
