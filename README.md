@@ -17,8 +17,8 @@
 <a href="https://www.behance.net/vimaleuraka" target="_blank">
   <img align="right"  alt="Vimal - Behance" src="https://img.icons8.com/color/48/000000/behance.png" width="22px">
 </a>
-<a href="https://www.instagram.com/vimaleurakaa/" target="_blank">
-  <img align="right" alt="Vimal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+<a href="https://www.dribbble.com/code2rithik/" target="_blank">
+  <img align="right" alt="Rithik - Dribbble" width="22px" src="https://freeiconshop.com/wp-content/uploads/edd/dribbble-flat.png"/>
 </a>
 <a href="https://codepen.io/code2rithik" target="_blank">
   <img align="right" alt="Rithik - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
