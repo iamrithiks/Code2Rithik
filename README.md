@@ -20,8 +20,8 @@
 <a href="https://www.instagram.com/vimaleurakaa/" target="_blank">
   <img align="right" alt="Vimal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a href="https://codepen.io/vimaleurakaa" target="_blank">
-  <img align="right" alt="Vimal - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
+<a href="https://codepen.io/code2rithik" target="_blank">
+  <img align="right" alt="Rithik - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
 </a>
 <a href="https://www.github.com/code2rithik/" target="_blank">
   <img align="right" alt="Rithik - GitHub" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png"/>
