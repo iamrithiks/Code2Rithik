@@ -35,30 +35,26 @@ document.write("Hello World");
 
 let status =
 {
-  skills : [React, Redux, JavaScript Sass Jquery & Firebase],
-  learning: [React Advanced, TypeScript, React Native, MongoDB, NodeJS, ExpressJS, SparkAR],
-  interests: [Open Source Contribution, Research, Games, Unity, Ar - Vr]
+  skills : [HTML, CSS, Bootstrap, JavaScript, Node.JS, jQuery, CLI, Express.js, Git, GitHub],
+  learning: [EJS, React.js, SQL, MongoDB, Mongoose, Python],
 }
 
 const skills =
 {
-  languages :[JavaScript, Html, Css, CSharp, Php, Java],
+  languages :[HTML, CSS, Bootstrap, JavaScript, Node.JS, jQuery, CLI, Express.js, Git, GitHub],
 
-  ide       :[Vs Code, Eclipse, WebStorm, Visual Studio, Android Studio, Sublime, Notepad++],
+  ide       :[Vs Code, Eclipse, Visual Studio, Sublime, Atom],
 
-  libraries :[Jquery, ThreeJs, AnimeJS, Gsap, Aos, SlickJS, Parcel, Gatsby, Webpack],
+  frameworks:[Node Js, Express Js, jQery],
 
-  frameworks:[React Js, Node Js, Vue Js, Bootstrap, Ionic, Framework7, ReactStrap, MaterialUI],
+  databases :[none],
 
-  databases :[Firebase, MongoDB],
-
-  platforms :[Firebase, Google Cloud Platform, Heroku, Amazon Web Services,
-  Github Pages, Netlify, DigitalOcean],
+  platforms :[Heroku, Github Pages, Netlify, Vercel],
 
 }
 
 
-Developer dev = new Developer(vimaleurakaa);
+Developer dev = new Developer(code2rithik);
 
 while(dev.isCoding() && dev.isStuck())
 {
@@ -74,14 +70,10 @@ while(dev.isCoding() && dev.isStuck())
 
 ---
 
-- 📚 I’m currently studying MCA and pursuing various course on udemy.
-- 👨‍💻 Fulltime programmer, Part-time Gamer.. Basically a Geek. but dont worry im totally extrovert.
-- 🌱 I’m currently learning react advanced, mongo db, and many popular libraries and more.
-- ⚡ Gaming means a lot to me. I Play Tactical FPS Games, Valorant & CSGO are my favourite!
-- 💬 Ask me anything about K-dramas, K-POP and Places to eat 😉.
-- ✈ Been to Dubai!
-- 😇 My Bucket list is to Visit : Venice & Sydney.
-- ✝️ Commited to Christianity.
+- 📚 I’m currently learning about Web Development by using Various Courses on Udemy.
+- 👨‍💻 Part-Time programmer, Part-Time Learner.
+- 🌱 I’m currently learning EJS, React.js, SQL, MongoDB, Mongoose, Python and many more!
+- 💬 Contact me at <a href-"mailto:rithikdev@outlook.com">rithikdev@outlook.com</a>
+- 😇 My Bucket list is to Visit : London & Australia.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
-- 📫 How to reach me: You can e-mail me at vimaleurakaa@gmail.com
