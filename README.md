@@ -11,8 +11,8 @@
 <a href="https://www.github.com/code2rithik/" target="_blank">
   <img align="right" alt="Rithik - GitHub" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png"/>
 </a>
-<a href="https://twitter.com/Vimaleurakaa" target="_blank">
-  <img align="right" alt="Vimal - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+<a href="https://dev.to/Code2Rithik" target="_blank">
+  <img align="right" alt="Rithik - Dev.to" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/>
 </a>
 <a href="mailto:rithikdev@outlook.com" target="_blank">
   <img align="right"  alt="Rithik - Email" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="22px">
