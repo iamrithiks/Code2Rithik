@@ -8,8 +8,8 @@
 
 <h3 align="right">Connect with me :</h3>
 
-<a href="https://www.github.com/code2rithik/" target="_blank">
-  <img align="right" alt="Rithik - GitHub" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png"/>
+<a href="https://stackoverflow.com/users/15028773/rithik-samanthula" target="_blank">
+  <img align="right" alt="Rithik - Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>
 </a>
 <a href="https://dev.to/Code2Rithik" target="_blank">
   <img align="right" alt="Rithik - Dev.to" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/>
