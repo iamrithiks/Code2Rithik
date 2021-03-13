@@ -14,8 +14,8 @@
 <a href="https://twitter.com/Vimaleurakaa" target="_blank">
   <img align="right" alt="Vimal - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
-<a href="https://www.behance.net/vimaleuraka" target="_blank">
-  <img align="right"  alt="Vimal - Behance" src="https://img.icons8.com/color/48/000000/behance.png" width="22px">
+<a href="mailto:rithikdev@outlook.com" target="_blank">
+  <img align="right"  alt="Rithik - Email" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="22px">
 </a>
 <a href="https://www.dribbble.com/code2rithik/" target="_blank">
   <img align="right" alt="Rithik - Dribbble" width="22px" src="https://freeiconshop.com/wp-content/uploads/edd/dribbble-flat.png"/>
