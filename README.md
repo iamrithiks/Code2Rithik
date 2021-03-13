@@ -1,40 +1,87 @@
-### Hey there 👋, I am Rithik
-#### Front-End Web Developer 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code2rithik&color=brightgreen" alt="code2rithik" /> </p><br>
+<h2 align="center">Hi 👋, I'm Rithik Samanthula</h2>
+<p align="center">My name is Rithik and I am a Full Stack Web Developer. I recently got into Web Development. I am also a game designer and wordpress developer.</p>
 
-I am Rithik and I am a front-end Web Developer. I am good at HTML, CSS, and JS.<br>
+<p align="center">
+<br><img src="https://github.com/vimaleurakaa/vimaleurakaa/blob/main/dev.gif" width="280px"><br><br>
+</p>
+
+<h3 align="right">Connect with me :</h3>
+
+<a href="https://www.facebook.com/vimaleurakaa/" target="_blank">
+  <img align="right" alt="Vimal - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
+<a href="https://twitter.com/Vimaleurakaa" target="_blank">
+  <img align="right" alt="Vimal - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+<a href="https://www.behance.net/vimaleuraka" target="_blank">
+  <img align="right"  alt="Vimal - Behance" src="https://img.icons8.com/color/48/000000/behance.png" width="22px">
+</a>
+<a href="https://www.instagram.com/vimaleurakaa/" target="_blank">
+  <img align="right" alt="Vimal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://codepen.io/vimaleurakaa" target="_blank">
+  <img align="right" alt="Vimal - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
+</a>
+<a href="https://www.linkedin.com/in/vimaleuraka/" target="_blank">
+  <img align="right" alt="Vimal - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+</a>
+<br/>
+<br/>
+
+```js
+
+document.write("Hello World");
+
+let status =
+{
+  skills : [React, Redux, JavaScript Sass Jquery & Firebase],
+  learning: [React Advanced, TypeScript, React Native, MongoDB, NodeJS, ExpressJS, SparkAR],
+  interests: [Open Source Contribution, Research, Games, Unity, Ar - Vr]
+}
+
+const skills =
+{
+  languages :[JavaScript, Html, Css, CSharp, Php, Java],
+
+  ide       :[Vs Code, Eclipse, WebStorm, Visual Studio, Android Studio, Sublime, Notepad++],
+
+  libraries :[Jquery, ThreeJs, AnimeJS, Gsap, Aos, SlickJS, Parcel, Gatsby, Webpack],
+
+  frameworks:[React Js, Node Js, Vue Js, Bootstrap, Ionic, Framework7, ReactStrap, MaterialUI],
+
+  databases :[Firebase, MongoDB],
+
+  platforms :[Firebase, Google Cloud Platform, Heroku, Amazon Web Services,
+  Github Pages, Netlify, DigitalOcean],
+
+}
 
 
-Skills: PYTHON / JS / HTML / CSS
+Developer dev = new Developer(vimaleurakaa);
 
-- 🔭 I’m currently working on my Portfolio. 
-- 🌱 I’m currently learning about Express.js 
-- 👯 I’m looking to collaborate on My Portfolio and JavaScript 
-- 💬 Ask me about How I make my Websites 
-- 📫 How to reach me: rithikdev@outlook.com 
-- ⚡ Fun fact: I started to code when I was 7. 
-
-
-<a href="mailto:talk2rithiks@gmail.com"><img src="https://img.shields.io/badge/EMAIL-talk2rithiks@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/Code2Rithik"><img src="https://img.shields.io/badge/GitHub-Code2Rithik-181717?style=for-the-badge&logo=github"></a>
-<a href="https://dribbble.com/Code2Rithik"><img src="https://img.shields.io/badge/Dribbble-Code2Rithik-EA4C89?style=for-the-badge&logo=dribbble"></a>
-<a href="https://stackoverflow.com/users/15028773/rithik-samanthula"><img src="https://img.shields.io/badge/Stackoverflow-Rithik%20Samanthula-FE7A16?style=for-the-badge&logo=stackoverflow"></a>
-<a href="https://code2rithik.github.io/"><img src="https://img.shields.io/badge/Website-code2rithik.github.io-brightgreen?style=for-the-badge"></a>
-<a href="https://dev.to/code2rithik"><img src="https://img.shields.io/badge/dev.to-Rithik%20Samanthula-0A0A0A?style=for-the-badge&logo=dev.to"></a>
+while(dev.isCoding() && dev.isStuck())
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+  dev.taskComplete();
+}
 
 
+```
 
-## My Github Stats
+---
 
-![Profile views](https://gpvc.arturio.dev/Code2Rithik)  
-![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code2Rithik&show_icons=true&theme=blue-green)
+- 📚 I’m currently studying MCA and pursuing various course on udemy.
+- 👨‍💻 Fulltime programmer, Part-time Gamer.. Basically a Geek. but dont worry im totally extrovert.
+- 🌱 I’m currently learning react advanced, mongo db, and many popular libraries and more.
+- ⚡ Gaming means a lot to me. I Play Tactical FPS Games, Valorant & CSGO are my favourite!
+- 💬 Ask me anything about K-dramas, K-POP and Places to eat 😉.
+- ✈ Been to Dubai!
+- 😇 My Bucket list is to Visit : Venice & Sydney.
+- ✝️ Commited to Christianity.
+- 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Code2Rithik)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Code2Rithik)  
-
-
-
+- 📫 How to reach me: You can e-mail me at vimaleurakaa@gmail.com
