@@ -23,8 +23,8 @@
 <a href="https://codepen.io/vimaleurakaa" target="_blank">
   <img align="right" alt="Vimal - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
 </a>
-<a href="https://www.linkedin.com/in/vimaleuraka/" target="_blank">
-  <img align="right" alt="Vimal - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+<a href="https://www.github.com/code2rithik/" target="_blank">
+  <img align="right" alt="Rithik - GitHub" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png"/>
 </a>
 <br/>
 <br/>
