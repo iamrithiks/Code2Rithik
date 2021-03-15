@@ -73,7 +73,7 @@ while(dev.isCoding() && dev.isStuck())
 - 📚 I’m currently learning about Web Development by using Various Courses on Udemy.
 - 👨‍💻 Part-Time programmer, Part-Time Learner.
 - 🌱 I’m currently learning EJS, React.js, SQL, MongoDB, Mongoose, Python and many more!
-- 💬 Contact me at <a href-"mailto:rithikdev@outlook.com">rithikdev@outlook.com</a>
+- 💬 Contact me at rithikdev@outlook.com
 - 😇 My Bucket list is to Visit : London & Australia.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
