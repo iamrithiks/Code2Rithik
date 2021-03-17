@@ -77,3 +77,5 @@ while(dev.isCoding() && dev.isStuck())
 - 😇 My Bucket list is to Visit : London & Australia.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/Code2Rithik/github-readme-stats)
+
