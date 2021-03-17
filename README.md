@@ -45,7 +45,7 @@ const skills =
 
   ide       :[Vs Code, Eclipse, Visual Studio, Sublime, Atom],
 
-  frameworks:[Node Js, Express Js, jQery],
+  frameworks:[Node Js, Express Js, jQuery],
 
   databases :[none],
 
