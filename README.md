@@ -3,7 +3,7 @@
 <p align="center">My name is Rithik and I am a Full Stack Web Developer. I recently got into Web Development. I am also a game designer and wordpress developer.</p>
 
 <p align="center">
-<br><img src="https://github.com/vimaleurakaa/vimaleurakaa/blob/main/dev.gif" width="280px"><br><br>
+<br><img src="https://github.com/Code2Rithik/Code2Rithik/blob/main/dev.gif" width="280px"><br><br>
 </p>
 
 <h3 align="right">Connect with me :</h3>
