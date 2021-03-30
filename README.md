@@ -77,10 +77,7 @@ while(dev.isCoding() && dev.isStuck())
 - 😇 My Bucket list is to Visit : Zurich & One Infinite Loop.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/Code2Rithik/github-readme-stats)
-</div>
 
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=code2rithik&theme=flat&no-frame=true&margin-w=30" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/Code2Rithik/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=code2rithik&theme=flat&no-frame=true&margin-w=30" />
+
