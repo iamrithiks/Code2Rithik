@@ -79,5 +79,5 @@ while(dev.isCoding() && dev.isStuck())
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/Code2Rithik/github-readme-stats)
-<img src="https://github-profile-trophy.vercel.app/?username=code2rithik&theme=flat&no-frame=true&margin-w=30" />
+<img src="https://github-profile-trophy.vercel.app/?username=code2rithik&theme=gruvbox&no-frame=true&margin-w=30" />
 
