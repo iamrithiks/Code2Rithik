@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code2rithik&color=brightgreen" alt="code2rithik" /> </p><br>
-<h2 align="center">Hi <img src="https://github.com/Code2Rithik/Code2Rithik/blob/main/hand-wave.gif" width="30"/>, I'm Rithik Samanthula</h2>
+<h2 align="center">Hi <img src="https://github.com/Code2Rithik/Code2Rithik/blob/main/wave-animated.gif" width="30"/>, I'm Rithik Samanthula</h2>
 <p align="center">My name is Rithik and I am a Full Stack Web Developer. I recently got into Web Development. I am also a game designer and wordpress developer.</p>
 
 <p align="center">
