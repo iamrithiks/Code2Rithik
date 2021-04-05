@@ -83,7 +83,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!--START_SECTION:waka-->
 
-[![rithik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Code2Rithik)](https://github.com/anuraghazra/github-readme-stats)
+[![rithik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code2rithik)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
