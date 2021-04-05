@@ -80,14 +80,6 @@ while(dev.isCoding() && dev.isStuck())
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/Code2Rithik/github-readme-stats)
 
-
-<!--START_SECTION:waka-->
-
-[![rithik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code2rithik)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--END_SECTION:waka-->
-
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=code2rithik&no-frame=true&margin-w=30&no-bg=true" />
 </div>        
