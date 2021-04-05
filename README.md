@@ -83,7 +83,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!--START_SECTION:waka-->
 
-<Code2Rithik></Code2Rithik>
+<figure><embed src="https://wakatime.com/share/@0fc5645e-9413-40c6-a7e2-329d298ae23f/1562e323-2023-4ac6-aa72-74ce97b8c99a.svg"></embed></figure>
 
 <!--END_SECTION:waka-->
 
