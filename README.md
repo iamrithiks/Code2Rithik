@@ -35,13 +35,13 @@ document.write("Hello World");
 
 let status =
 {
-  skills : [HTML, CSS, Bootstrap, JavaScript, Node.JS, jQuery, CLI, Express.js, Git, GitHub],
-  learning: [EJS, React.js, SQL, MongoDB, Mongoose, Python],
+  skills : [HTML, CSS, Bootstrap, JavaScript, Node.JS, jQuery, CLI, Express.js, Git, GitHub, EJS],
+  learning: [React.js, SQL, MongoDB, Mongoose, Python],
 }
 
 const skills =
 {
-  languages :[HTML, CSS, Bootstrap, JavaScript, Node.JS, jQuery, CLI, Express.js, Git, GitHub],
+  languages :[HTML, CSS, Bootstrap, JavaScript, Node.JS, jQuery, CLI, Express.js, Git, GitHub, EJS, React.js],
 
   ide       :[Vs Code, Eclipse, Visual Studio, Sublime, Atom],
 
