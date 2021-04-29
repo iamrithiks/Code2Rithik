@@ -17,14 +17,14 @@
 <a href="https://www.rithikjs.medium.com" target="_blank">
   <img align="right"  alt="Rithik - Medium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="22px">
 </a>
-<a href="https://www.instagram.com/vimaleurakaa/" target="_blank">
-  <img align="right" alt="Vimal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+<a href="https://www.dribbble.com/code2rithik/" target="_blank">
+  <img align="right" alt="Rithik - Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png"/>
 </a>
-<a href="https://codepen.io/vimaleurakaa" target="_blank">
-  <img align="right" alt="Vimal - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
+<a href="https://codepen.io/code2rithik" target="_blank">
+  <img align="right" alt="Rithik - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
 </a>
-<a href="https://www.linkedin.com/in/vimaleuraka/" target="_blank">
-  <img align="right" alt="Vimal - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+<a href="https://stackoverflow.com/users/15028773/rithik-samanthula?tab=profile" target="_blank">
+  <img align="right" alt="Rithik - StackOverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>
 </a>
 <br/>
 <br/>
