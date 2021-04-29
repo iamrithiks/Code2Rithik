@@ -11,8 +11,8 @@
 <a href="https://www.github.com/code2rithik/" target="_blank">
   <img align="right" alt="Rithik - Github" width="22px" src="http://iconsetc.com/icons-watermarks/flat-rounded-square-white-on-black/social-media/social-media_github/social-media_github_flat-rounded-square-white-on-black_512x512.png"/>
 </a>
-<a href="https://twitter.com/Vimaleurakaa" target="_blank">
-  <img align="right" alt="Vimal - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+<a href="https://discord.gg/Ej6n2msy" target="_blank">
+  <img align="right" alt="Rithik - Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/>
 </a>
 <a href="https://www.behance.net/vimaleuraka" target="_blank">
   <img align="right"  alt="Vimal - Behance" src="https://img.icons8.com/color/48/000000/behance.png" width="22px">
