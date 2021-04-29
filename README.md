@@ -14,7 +14,7 @@
 <a href="https://discord.gg/Ej6n2msy" target="_blank">
   <img align="right" alt="Rithik - Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/>
 </a>
-<a href="https://www.rithikjs.medium.com" target="_blank">
+<a href="https://rithikjs.medium.com/" target="_blank">
   <img align="right"  alt="Rithik - Medium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="22px">
 </a>
 <a href="https://www.dribbble.com/code2rithik/" target="_blank">
