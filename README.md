@@ -37,3 +37,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code2rithik&" alt="code2rithik" /></p>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
