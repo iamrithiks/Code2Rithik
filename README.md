@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimaleurakaa&color=brightgreen" alt="vimaleurakaa" /> </p><br>
 <h2 align="center">Hi <img src="https://github.com/code2rithik/code2rithik/blob/main/wave-animated.gif" width="25px">, I'm Rithik Samanthula</h2>
-<p align="center">Courteous and enthusiastic, I am interested in ReactHS and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing Web Apps and building websites.</p>
+<p align="center">Courteous and enthusiastic, I am interested in ReactJS and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing Web Apps and building websites.</p>
 
 <p align="center">
 <br><img src="https://github.com/code2rithik/code2rithik/blob/main/dev.gif" width="280px"><br><br>
