@@ -14,8 +14,8 @@
 <a href="https://discord.gg/Ej6n2msy" target="_blank">
   <img align="right" alt="Rithik - Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/>
 </a>
-<a href="https://www.behance.net/vimaleuraka" target="_blank">
-  <img align="right"  alt="Vimal - Behance" src="https://img.icons8.com/color/48/000000/behance.png" width="22px">
+<a href="https://www.rithikjs.medium.com" target="_blank">
+  <img align="right"  alt="Rithik - Medium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="22px">
 </a>
 <a href="https://www.instagram.com/vimaleurakaa/" target="_blank">
   <img align="right" alt="Vimal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
