@@ -1,44 +1,87 @@
-<h1 align="center">Hi 👋, I'm Rithik</h1>
-<h3 align="center">A passionate frontend developer from America</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimaleurakaa&color=brightgreen" alt="vimaleurakaa" /> </p><br>
+<h2 align="center">Hi 👋, I'm Rithik Samanthula</h2>
+<p align="center">Courteous and enthusiastic, I am interested in ReactHS and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing Web Apps and building websites.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code2rithik&label=Profile%20views&color=0e75b6&style=flat" alt="code2rithik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code2rithik" alt="code2rithik" /></a> </p>
-
-- 🔭 I’m currently working on [Emojipedia with React](https://github.com/Code2Rithik/emojipedia)
-
-- 🌱 I’m currently learning **ReactJS, Next.JS, Databases**
-
-- 👯 I’m looking to collaborate on **a ReactJS Project**
-
-- 👨‍💻 All of my projects are available at [https://code2rithik.github.io](https://code2rithik.github.io)
-
-- 📝 I regularly write articles on [https://rithikjs.medium.com](https://rithikjs.medium.com)
-
-- 💬 Ask me about **React, HTML, CSS, JS, NodeJS, ExpressJS, EJS etc.**
-
-- 📫 How to reach me **rithikdeveloper754@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/code2rithik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="code2rithik" height="30" width="40" /></a>
-<a href="https://codesandbox.com/code2rithik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="code2rithik" height="30" width="40" /></a>
-<a href="https://dribbble.com/code2rithik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="code2rithik" height="30" width="40" /></a>
-<a href="https://medium.com/@rithikjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@rithikjs" height="30" width="40" /></a>
-<a href="https://discord.gg/AFg7tK4gtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="AFg7tK4gtk" height="30" width="40" /></a>
+<p align="center">
+<br><img src="https://github.com/code2rithik/code2rithik/blob/main/dev.gif" width="280px"><br><br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="right">Connect with me :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code2rithik&show_icons=true&locale=en&layout=compact" alt="code2rithik" /></p>
+<a href="https://www.facebook.com/vimaleurakaa/" target="_blank">
+  <img align="right" alt="Vimal - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
+<a href="https://twitter.com/Vimaleurakaa" target="_blank">
+  <img align="right" alt="Vimal - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+</a>
+<a href="https://www.behance.net/vimaleuraka" target="_blank">
+  <img align="right"  alt="Vimal - Behance" src="https://img.icons8.com/color/48/000000/behance.png" width="22px">
+</a>
+<a href="https://www.instagram.com/vimaleurakaa/" target="_blank">
+  <img align="right" alt="Vimal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://codepen.io/vimaleurakaa" target="_blank">
+  <img align="right" alt="Vimal - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
+</a>
+<a href="https://www.linkedin.com/in/vimaleuraka/" target="_blank">
+  <img align="right" alt="Vimal - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+</a>
+<br/>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code2rithik&show_icons=true&locale=en" alt="code2rithik" /></p>
+```js
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code2rithik&" alt="code2rithik" /></p>
+document.write("Hello World");
 
-# Blog posts
+let status =
+{
+  skills : [React, Redux, JavaScript Sass Jquery & Firebase],
+  learning: [React Advanced, TypeScript, React Native, MongoDB, NodeJS, ExpressJS, SparkAR],
+  interests: [Open Source Contribution, Research, Games, Unity, Ar - Vr]
+}
 
-<!-- BLOG-POST-LIST:START -->
+const skills =
+{
+  languages :[JavaScript, Html, Css, CSharp, Php, Java],
 
-<!-- BLOG-POST-LIST:END -->
+  ide       :[Vs Code, Eclipse, WebStorm, Visual Studio, Android Studio, Sublime, Notepad++],
+
+  libraries :[Jquery, ThreeJs, AnimeJS, Gsap, Aos, SlickJS, Parcel, Gatsby, Webpack],
+
+  frameworks:[React Js, Node Js, Vue Js, Bootstrap, Ionic, Framework7, ReactStrap, MaterialUI],
+
+  databases :[Firebase, MongoDB],
+
+  platforms :[Firebase, Google Cloud Platform, Heroku, Amazon Web Services,
+  Github Pages, Netlify, DigitalOcean, Vercel],
+
+}
+
+
+Developer dev = new Developer(vimaleurakaa);
+
+while(dev.isCoding() && dev.isStuck())
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+  dev.taskComplete();
+}
+
+
+```
+
+---
+
+- 📚 I’m currently studying MCA and pursuing various course on udemy.
+- 👨‍💻 Fulltime programmer, Part-time Gamer.. Basically a Geek. but dont worry im totally extrovert.
+- 🌱 I’m currently learning react advanced, mongo db, and many popular libraries and more.
+- ⚡ Gaming means a lot to me. I Play Tactical FPS Games, Valorant & CSGO are my favourite!
+- 💬 Ask me anything about K-dramas, K-POP and Places to eat 😉.
+- ✈ Been to Dubai!
+- 😇 My Bucket list is to Visit : Venice & Sydney.
+- ✝️ Commited to Christianity.
+- 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
+
+- 📫 How to reach me: You can e-mail me at vimaleurakaa@gmail.com
