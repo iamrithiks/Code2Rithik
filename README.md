@@ -1,85 +1,28 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code2rithik&color=brightgreen" alt="code2rithik" /> </p><br>
-<h2 align="center">Hi <img src="https://github.com/Code2Rithik/Code2Rithik/blob/main/wave-animated.gif" width="30"/>, I'm Rithik Samanthula</h2>
-<p align="center">My name is Rithik and I am a Full Stack Web Developer. I recently got into Web Development. I am also a game designer and wordpress developer.</p>
+<h1 align="center">Hi 👋, I'm Rithik</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-<br><img src="https://github.com/Code2Rithik/Code2Rithik/blob/main/dev.gif" width="280px"><br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code2rithik&label=Profile%20views&color=0e75b6&style=flat" alt="code2rithik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code2rithik" alt="code2rithik" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/code2rithik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="code2rithik" height="30" width="40" /></a>
+<a href="https://codesandbox.com/code2rithik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="code2rithik" height="30" width="40" /></a>
+<a href="https://dribbble.com/code2rithik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="code2rithik" height="30" width="40" /></a>
+<a href="https://medium.com/@rithikjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@rithikjs" height="30" width="40" /></a>
+<a href="https://discord.gg/AFg7tK4gtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="AFg7tK4gtk" height="30" width="40" /></a>
 </p>
 
-<h3 align="right">Connect with me :</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<a href="https://stackoverflow.com/users/15028773/rithik-samanthula" target="_blank">
-  <img align="right" alt="Rithik - Stack Overflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>
-</a>
-<a href="https://dev.to/Code2Rithik" target="_blank">
-  <img align="right" alt="Rithik - Dev.to" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"/>
-</a>
-<a href="mailto:rithikdev@outlook.com" target="_blank">
-  <img align="right"  alt="Rithik - Email" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" width="22px">
-</a>
-<a href="https://www.dribbble.com/code2rithik/" target="_blank">
-  <img align="right" alt="Rithik - Dribbble" width="22px" src="https://freeiconshop.com/wp-content/uploads/edd/dribbble-flat.png"/>
-</a>
-<a href="https://codepen.io/code2rithik" target="_blank">
-  <img align="right" alt="Rithik - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
-</a>
-<a href="https://www.github.com/code2rithik/" target="_blank">
-  <img align="right" alt="Rithik - GitHub" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png"/>
-</a>
-<br/>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code2rithik&show_icons=true&locale=en&layout=compact" alt="code2rithik" /></p>
 
-```js
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code2rithik&show_icons=true&locale=en" alt="code2rithik" /></p>
 
-document.write("Hello World");
-
-let status =
-{
-  skills : [HTML, CSS, Bootstrap, JavaScript, Node.JS, jQuery, CLI, Express.js, Git, GitHub, EJS],
-  learning: [React.js, SQL, MongoDB, Mongoose, Python],
-}
-
-const skills =
-{
-  languages :[HTML, CSS, Bootstrap, JavaScript, Node.JS, jQuery, CLI, Express.js, Git, GitHub, EJS, React.js],
-
-  ide       :[Vs Code, Eclipse, Visual Studio, Sublime, Atom],
-
-  frameworks:[Node Js, Express Js, jQuery],
-
-  databases :[none],
-
-  platforms :[Heroku, Github Pages, Netlify, Vercel],
-
-}
-
-
-Developer dev = new Developer(code2rithik);
-
-while(dev.isCoding() && dev.isStuck())
-{
-  dev.openBrowser();
-  dev.openStackOverFlow();
-  dev.pasteCodeInIde();
-  dev.feelProfessional();
-  dev.taskComplete();
-}
-
-
-```
-
----
-
-- 📚 I’m currently learning about Web Development by using Various Courses on Udemy.
-- 👨‍💻 Part-Time programmer, Part-Time Learner.
-- 🌱 I’m currently learning EJS, React.js, SQL, MongoDB, Mongoose, Python and many more!
-- 💬 Contact me at rithikdev@outlook.com
-- 😇 My Bucket list is to Visit : Zurich & One Infinite Loop.
-- 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code2Rithik&layout=compact)](https://github.com/Code2Rithik/github-readme-stats)
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=code2rithik&no-frame=true&margin-w=30&no-bg=true" />
-</div>        
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code2rithik&" alt="code2rithik" /></p>
