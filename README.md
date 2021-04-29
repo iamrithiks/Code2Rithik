@@ -9,7 +9,7 @@
 <h3 align="right">Connect with me :</h3>
 
 <a href="https://www.github.com/code2rithik/" target="_blank">
-  <img align="right" alt="Rithik - Github" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/github-154-675675.png"/>
+  <img align="right" alt="Rithik - Github" width="22px" src="http://iconsetc.com/icons-watermarks/flat-rounded-square-white-on-black/social-media/social-media_github/social-media_github_flat-rounded-square-white-on-black_512x512.png"/>
 </a>
 <a href="https://twitter.com/Vimaleurakaa" target="_blank">
   <img align="right" alt="Vimal - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
