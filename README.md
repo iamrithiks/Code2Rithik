@@ -74,7 +74,7 @@ while(dev.isCoding() && dev.isStuck())
 
 ---
 
-- 📚 I’m currently studying MCA and pursuing various course on udemy.
+- 📚 I’m currently pursuing various course on udemy.
 - 👨‍💻 Fulltime programmer, Part-time Student.. Basically a Geek. but dont worry im totally extrovert.
 - 🌱 I’m currently learning react advanced, mongo db, and many popular libraries and more.
 - ✈ Been to Dubai!
