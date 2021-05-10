@@ -11,7 +11,7 @@
 <a href="https://www.github.com/code2rithik/" target="_blank">
   <img align="right" alt="Rithik - Github" width="22px" src="http://iconsetc.com/icons-watermarks/flat-rounded-square-white-on-black/social-media/social-media_github/social-media_github_flat-rounded-square-white-on-black_512x512.png"/>
 </a>
-<a href="https://discord.gg/Ej6n2msy" target="_blank">
+<a href="https://discord.gg/AFg7tK4gtk" target="_blank">
   <img align="right" alt="Rithik - Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/>
 </a>
 <a href="https://rithikjs.medium.com/" target="_blank">
