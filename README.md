@@ -84,7 +84,7 @@ while(dev.isCoding() && dev.isStuck())
 - 📫 How to reach me: You can e-mail me at rithikdeveloper754@gmail.com
 ![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code2rithik&theme=algolia&show_icons=true)
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=code2rithik&layout=compact&theme=material-palenight" />
 </a>
