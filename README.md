@@ -85,7 +85,7 @@ while(dev.isCoding() && dev.isStuck())
 
 ![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=code2rithik&theme=algolia&show_icons=true)
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2rithik&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2rithik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </a>
 
