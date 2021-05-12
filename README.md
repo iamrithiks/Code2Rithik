@@ -82,9 +82,8 @@ while(dev.isCoding() && dev.isStuck())
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
 - 📫 How to reach me: You can e-mail me at rithikdeveloper754@gmail.com
-![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code2rithik&theme=algolia&show_icons=true)
+- 
+![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=code2rithik&theme=algolia&show_icons=true)
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=code2rithik&layout=compact&theme=material-palenight" />
 </a>
