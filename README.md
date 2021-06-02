@@ -1,25 +1,22 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave-animated.gif" width="30px">
 
-## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech) [![Dev Badge](https://img.shields.io/badge/-DEV-000000?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/pranjaljain0)](https://dev.to/pranjaljain0)
+[![Gmail Badge](https://img.shields.io/badge/-rithikdeveloper754@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rithikdeveloper754@gmail.com)](mailto:hello@pranjaljain.tech) [![Dev Badge](https://img.shields.io/badge/-DEV-000000?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/code2rithik)](https://dev.to/pranjaljain0)
 
 - 🔭 I’m currently working on something amazing
-- 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
+- 📫 How to reach me: [https://iamrithikdev.web.app](https://iamrithikdev.web.app)
 - ⚡ Fun fact: I am always working
-
-[Resume](https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf)
 
 ## 🔧 Technologies & Tools
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-Html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-Css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 ### Frameworks
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
