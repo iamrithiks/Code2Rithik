@@ -1,91 +1,70 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimaleurakaa&color=brightgreen" alt="vimaleurakaa" /> </p><br>
-<h2 align="center">Hi <img src="https://github.com/code2rithik/code2rithik/blob/main/wave-animated.gif" width="25px">, I'm Rithik Samanthula</h2>
-<p align="center">Courteous and enthusiastic, I am interested in ReactJS and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing Web Apps and building websites.</p>
+### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave.gif" width="30px">
 
-<p align="center">
-<br><img src="https://github.com/code2rithik/code2rithik/blob/main/dev.gif" width="280px"><br><br>
-</p>
+## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech) [![Dev Badge](https://img.shields.io/badge/-DEV-000000?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/pranjaljain0)](https://dev.to/pranjaljain0)
 
-<h3 align="right">Connect with me :</h3>
+- 🔭 I’m currently working on something amazing
+- 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
+- ⚡ Fun fact: I am always working
 
-<a href="https://www.github.com/code2rithik/" target="_blank">
-  <img align="right" alt="Rithik - Github" width="22px" src="http://iconsetc.com/icons-watermarks/flat-rounded-square-white-on-black/social-media/social-media_github/social-media_github_flat-rounded-square-white-on-black_512x512.png"/>
+[Resume](https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf)
+
+## 🔧 Technologies & Tools
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+### Frameworks
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### Deploy
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
+
+### Editors
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+## Languages
+
+![C](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
+![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
+![Python](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=python&logoColor=white&link=https://github.com/pranjaljain0)
+
+### Design
+
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+
+### Motion Graphics
+
+![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Pranjaljain0/Pranjaljain0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://discord.gg/AFg7tK4gtk" target="_blank">
-  <img align="right" alt="Rithik - Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/>
-</a>
-<a href="https://rithikjs.medium.com/" target="_blank">
-  <img align="right"  alt="Rithik - Medium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="22px">
-</a>
-<a href="https://www.dribbble.com/code2rithik/" target="_blank">
-  <img align="right" alt="Rithik - Dribbble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png"/>
-</a>
-<a href="https://codepen.io/code2rithik" target="_blank">
-  <img align="right" alt="Rithik - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
-</a>
-<a href="https://stackoverflow.com/users/15028773/rithik-samanthula?tab=profile" target="_blank">
-  <img align="right" alt="Rithik - StackOverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>
-</a>
-<br/>
-<br/>
-
-```js
-
-document.write("Hello World");
-
-let status =
-{
-  skills : [React, Redux, JavaScript Sass Jquery & Firebase],
-  learning: [React Advanced, TypeScript, React Native, MongoDB, NodeJS, ExpressJS, SparkAR],
-  interests: [Open Source Contribution, Research, Games, Unity, Ar - Vr]
-}
-
-const skills =
-{
-  languages :[JavaScript, Html, Css, CSharp, Php, Java],
-
-  ide       :[Vs Code, Eclipse, WebStorm, Visual Studio, Android Studio, Sublime, Notepad++],
-
-  libraries :[Jquery, ThreeJs, AnimeJS, Gsap, Aos, SlickJS, Parcel, Gatsby, Webpack],
-
-  frameworks:[React Js, Node Js, Vue Js, Bootstrap, Ionic, Framework7, ReactStrap, MaterialUI],
-
-  databases :[Firebase, MongoDB],
-
-  platforms :[Firebase, Google Cloud Platform, Heroku, Amazon Web Services,
-  Github Pages, Netlify, DigitalOcean, Vercel],
-
-}
-
-
-Developer dev = new Developer(vimaleurakaa);
-
-while(dev.isCoding() && dev.isStuck())
-{
-  dev.openBrowser();
-  dev.openStackOverFlow();
-  dev.pasteCodeInIde();
-  dev.feelProfessional();
-  dev.taskComplete();
-}
-
-
-```
-
----
-
-- 📚 I’m currently pursuing various course on udemy.
-- 👨‍💻 Fulltime programmer, Part-time Student.. Basically a Geek. but dont worry im totally extrovert.
-- 🌱 I’m currently learning react advanced, mongo db, and many popular libraries and more.
-- ✈ Been to Dubai!
-- 😇 My Bucket list is to Visit : Tokyo and Zurich.
-- 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
-
-- 📫 How to reach me: You can e-mail me at rithikdeveloper754@gmail.com
-
-![Rithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=code2rithik&theme=algolia&show_icons=true)
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2rithik&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+<a href="https://github.com/Pranjaljain0/Pranjaljain0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjaljain0&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
