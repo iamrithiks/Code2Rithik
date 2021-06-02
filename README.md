@@ -1,4 +1,4 @@
-### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave.gif" width="30px">
+### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave-animated.gif" width="30px">
 
 ## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech) [![Dev Badge](https://img.shields.io/badge/-DEV-000000?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/pranjaljain0)](https://dev.to/pranjaljain0)
 
