@@ -1,6 +1,6 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave-animated.gif" width="30px">
 
-[![Gmail Badge](https://img.shields.io/badge/-rithikdeveloper754@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rithikdeveloper754@gmail.com)](mailto:hello@pranjaljain.tech) [![Dev Badge](https://img.shields.io/badge/-DEV-000000?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/code2rithik)](https://dev.to/pranjaljain0)
+[![Gmail Badge](https://img.shields.io/badge/-rithikdeveloper754@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:rithikdeveloper754@gmail.com)][![Dev Badge](https://img.shields.io/badge/-DEV-000000?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/code2rithik)](https://dev.to/pranjaljain0)
 
 - 🔭 I’m currently working on something amazing
 - 📫 How to reach me: [https://iamrithikdev.web.app](https://iamrithikdev.web.app)
@@ -17,17 +17,13 @@
 ### Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-### Mobile
-
-![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ### Deploy
 
