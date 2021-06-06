@@ -1,3 +1,5 @@
+<img alt="banner" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave-animated.gif">
+
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave-animated.gif" width="30px">
 
 ![Gmail](https://img.shields.io/badge/-rithikdeveloper754@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:rithikdeveloper754@gmail.com)
