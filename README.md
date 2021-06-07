@@ -56,9 +56,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Code2rithik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code2rithik&&theme=aloglia" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code2rithik&layout=compact&theme="alogolia")]
+
 <a href="https://github.com/Code2Rithik">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code2rithik&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=algolia" alt="Rithik's GitHub Stats" />
 </a>
