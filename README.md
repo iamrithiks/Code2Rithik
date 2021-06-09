@@ -37,23 +37,21 @@
 
 ### Editors
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-vscode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
+![Atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&logoColor=white&style=for-the-badge)
+![Intellij Idea](https://img.shields.io/badge/-intellij%20idea-000000?logo=IntelliJ%20Idea&logoColor=white&style=for-the-badge)
+![Webstorm](https://img.shields.io/badge/-webstorm-000000?logo=webstorm&logoColor=white&style=for-the-badge)
+![Vim](https://img.shields.io/badge/-vim-019733?logo=vim&logoColor=white&style=for-the-badge)
+
 
 ## Languages
 
-![C](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
-![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
-![Python](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=python&logoColor=white&link=https://github.com/pranjaljain0)
+![Java](https://img.shields.io/badge/-java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ### Design
 
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
-
-### Motion Graphics
-
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
+![Figma](https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 ## &#x1f4c8; GitHub Stats
 
