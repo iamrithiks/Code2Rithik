@@ -3,7 +3,7 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave-animated.gif" width="30px">
 
 ![Gmail](https://img.shields.io/badge/-rithikdeveloper754@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:rithikdeveloper754@gmail.com)
-[![Dev Badge](https://img.shields.io/badge/-DEV@-000?&style=for-the-badge)
+![Dev Badge](https://img.shields.io/badge/-DEV-000?&style=for-the-badge)
 
 - 🔭 I’m currently working on something amazing
 - 📫 How to reach me: [https://iamrithikdev.web.app](https://iamrithikdev.web.app)
