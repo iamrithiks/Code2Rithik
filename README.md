@@ -1,4 +1,4 @@
-<img alt="banner" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/banner.png">
+<img alt="banner" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/my_youtube_banner.png">
 
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave-animated.gif" width="30px">
 
