@@ -30,9 +30,10 @@
 
 ### Deploy
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
+![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)
+![Netlify](https://img.shields.io/badge/-netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-vercel-000?logo=vercel&logoColor=white&style=for-the-badge)
 
 ### Editors
 
