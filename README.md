@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on something amazing
 - 📫 How to reach me: [https://iamrithikdev.web.app](https://iamrithikdev.web.app)
-- ⚡ Fun fact: I am always working
+- ⚡ Fun fact: I am a Part Time Student and Part time Programmer
 
 ## 🔧 Technologies & Tools
 
