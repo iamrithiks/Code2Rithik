@@ -6,7 +6,7 @@
 ![Dev Badge](https://img.shields.io/badge/-DEV-000?&style=for-the-badge)
 
 - 🔭 I’m currently working on something amazing
-- 📫 How to reach me: [https://iamrithikdev.web.app](https://iamrithikdev.web.app)
+- 📫 How to reach me: [https://code2rithik.github.io](https://code2rithik.github.io)
 - ⚡ Fun fact: I am a Part Time Student and Part time Programmer
 
 ## 🔧 Technologies & Tools
