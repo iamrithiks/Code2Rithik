@@ -60,3 +60,7 @@
 <a href="https://github.com/Code2Rithik">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=code2rithik&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=algolia" alt="Rithik's GitHub Stats" />
 </a>
+
+## WakaTime
+
+[![wakatime](https://wakatime.com/badge/user/0fc5645e-9413-40c6-a7e2-329d298ae23f.svg)](https://wakatime.com/@0fc5645e-9413-40c6-a7e2-329d298ae23f)
