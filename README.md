@@ -1,12 +1,12 @@
-<img alt="banner" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/my_youtube_banner.png">
+<img alt="banner" src="https://raw.githubusercontent.com/TheRickEdge/TheRickEdge/master/my_youtube_banner.png">
 
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/Code2Rithik/Code2Rithik/master/wave-animated.gif" width="30px">
 
-![Gmail](https://img.shields.io/badge/-rithikdeveloper754@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:rithikdeveloper754@gmail.com)
+![Gmail](https://img.shields.io/badge/-talk2rithiks@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:talk2rithiks@gmail.com)
 ![Dev Badge](https://img.shields.io/badge/-DEV-000?&style=for-the-badge)
 
 - 🔭 I’m currently working on something amazing
-- 📫 How to reach me: [https://code2rithik.github.io](https://code2rithik.github.io)
+- 📫 How to reach me: [talk2rithiks@gmail.com](mailto)
 - ⚡ Fun fact: I am a Part Time Student and Part time Programmer
 
 ## 🔧 Technologies & Tools
